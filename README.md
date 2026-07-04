@@ -2,7 +2,7 @@
 
 Herhangi bir YouTube video bağlantısını yapıştır, videonun tüm çözünürlüklerdeki kapak fotoğrafını (thumbnail) tek tıkla indir.
 
-**[Canlı demo →](#)** *(GitHub Pages'e yayınladıktan sonra bu bağlantıyı güncelle)*
+**[Canlı demo →](#)**
 
 ## Özellikler
 
@@ -23,15 +23,7 @@ Tek bir statik dosyadır, kurulum gerektirmez:
 ```bash
 git clone https://github.com/kullanici-adin/kapak-avcisi.git
 cd kapak-avcisi
-# index.html dosyasını tarayıcıda aç, bu kadar.
-```
-
-### GitHub Pages'e yayınlama
-
-1. Bu depoyu kendi GitHub hesabına fork'la veya yükle.
-2. Depo ayarlarından **Settings → Pages** bölümüne git.
-3. Kaynak (Source) olarak `main` dalını ve `/ (root)` klasörünü seç.
-4. Birkaç dakika içinde siten `https://kullanici-adin.github.io/kapak-avcisi/` adresinde yayında olacak.
+# index.html dosyasını tarayıcıda aç, sonra ise youtube video linkini yapıştır çıkan video kapağını istediğin kalitede indir.
 
 ## Proje yapısı
 
