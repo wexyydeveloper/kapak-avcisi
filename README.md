@@ -2,8 +2,6 @@
 
 Herhangi bir YouTube video bağlantısını yapıştır, videonun tüm çözünürlüklerdeki kapak fotoğrafını (thumbnail) tek tıkla indir.
 
-**[Canlı demo →](#)**
-
 ## Özellikler
 
 - 🔗 Tüm YouTube bağlantı biçimlerini tanır: `youtube.com/watch?v=...`, `youtu.be/...`, `/shorts/...`, `/embed/...` veya sadece 11 karakterlik video kimliği
