@@ -1,0 +1,13 @@
+{
+  "appId": "com.kapakavcisi.app",
+  "appName": "Kapak Avcısı",
+  "webDir": "www",
+  "backgroundColor": "#0c0b0d",
+  "android": {
+    "backgroundColor": "#0c0b0d",
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
